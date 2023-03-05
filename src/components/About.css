@@ -1,0 +1,15 @@
+.conatiner .row{
+    display: flex;
+    color: red; 
+    padding: 20px;
+
+}
+.btn{
+    background: black;
+    color: white;
+    border-radius: 6px;
+}
+.form{
+    padding: 40px;
+    padding-right: 90px;
+}

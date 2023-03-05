@@ -1,0 +1,13 @@
+.container .row{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.container .row h1{
+    text-align: center;
+}
+.container .row .col-md-6{
+padding: 20px;
+}
